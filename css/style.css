@@ -1,16 +1,16 @@
 @font-face {
   font-family: Fredoka;
-  src: url(../_fonts/FredokaOne-Regular.ttf);
+  src: url(../fonts/FredokaOne-Regular.ttf);
 }
 
 @font-face {
   font-family: Rubik;
-  src: url(../_fonts/Rubik-VariableFont_wght.ttf);
+  src: url(../fonts/Rubik-Italic-VariableFont_wght.ttf);
 }
 
 @font-face {
   font-family: Bouncy;
-  src: url(../_fonts/bouncy.otf);
+  src: url(../fonts/bouncy.otf);
 }
 
 body {
